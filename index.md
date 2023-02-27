@@ -13,7 +13,7 @@ Graphic based OOP calculator
 
 ### ScreenSavor
 Graphic based OOP Screen Savor
-![Running Screen Savor]([)](https://github.com/rosemeh/Programming1portfolio/blob/gh-pages/images/Savor.png?raw=true)
+![Running Screen Savor](https://github.com/rosemeh/Programming1portfolio/blob/gh-pages/images/Savor.png?raw=true)
 ## Programming 2 Semester 2 Projects:
 
 ### Shape Tester
