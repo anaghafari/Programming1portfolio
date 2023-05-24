@@ -30,4 +30,5 @@ Graphic based OOP Shape Tester
 
 [Source Code](https://github.com/anaghafari/Programming1portfolio/tree/gh-pages/src/PigLatin)
 
-### Hangman Group Game (Graphics)
+### Hangman Aqua Group Game (No Graphics)
+![Running Hangman Aqua](https://github.com/anaghafari/Programming1portfolio/blob/gh-pages/images/Hangman1.png?raw=true)
