@@ -32,3 +32,4 @@ Graphic based OOP Shape Tester
 
 ### Hangman Aqua Group Game (No Graphics)
 ![Running Hangman Aqua](https://github.com/anaghafari/Programming1portfolio/blob/gh-pages/images/Hangman1.png?raw=true)
+![Running Hangman Aqua 2](https://github.com/anaghafari/Programming1portfolio/blob/gh-pages/images/Hangman2.png?raw=true)
